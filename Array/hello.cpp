@@ -13,6 +13,7 @@ int main() {
     std::cout << "Vector after filling: ";
     for(int i : vec) {
         std::cout << i << " ";
+    }
     std::cout << std::endl;
 
     // Example with an array
