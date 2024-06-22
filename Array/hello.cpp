@@ -14,8 +14,8 @@ int main() {
     for(int i : vec) {
         std::cout << i << " ";
     }
-    std::cout << std::endl; 
-
+    std::cout << std::endl;     
+ 
     // Example with an array
     int arr[10]; // Create an array of size 10
 
